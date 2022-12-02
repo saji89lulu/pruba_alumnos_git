@@ -12,3 +12,5 @@ Este proyecto va a ser para trabajar entre todos
 
 Para los comandos de Git, te dejo un resumen aquí:
 https://education.github.com/git-cheat-sheet-education.pdf
+Para entender y profundizar sobre el flujo de git, lo puedes ver aquí:
+https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
