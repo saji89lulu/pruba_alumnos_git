@@ -6,5 +6,5 @@ Este proyecto va a ser para trabajar entre todos
 4. Clona este repositorio en tu local
 5. Añade un proyecto de Python a este repositorio
 6. Sube los cambios en tu cuenta de Github
-7. Envíanos el enlace de tu perfil para comprobarlo
+7. Envíanos el enlace de tu perfil para comprobarlo a nodd3r.info@gmail.com
 8. Si lo has hecho bien, recibirás un certificado de Git y Github :D
